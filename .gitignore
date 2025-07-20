@@ -1,0 +1,7 @@
+# Python (Flask backend)
+backend/venv/
+__pycache__/
+
+
+# Secrets
+**/.env
